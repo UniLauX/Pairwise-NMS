@@ -12,4 +12,6 @@ The experiments based on Faster-RCNN and DPM </br>
 
 tested on three datasets: MOT15, TUD-Crossing and PETS. </br>
 
+The comparison works include SoftNMS and ConvNMS.
+
 
