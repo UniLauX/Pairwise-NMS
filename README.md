@@ -7,3 +7,4 @@ https://arxiv.org/abs/1901.03796
 
 
 This work targeting on cure the GreedyNMS (a post-processing step for Object detection).
+The experiments based on Faster-RCNN and DPM tested on three datasets that ar MOT15, TUD-Crossing and PETS.
