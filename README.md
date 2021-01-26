@@ -1,6 +1,6 @@
 # Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes
 
-by [Yu Liu](https://sites.google.com/site/yuliuunilau/home), Lingqiao Liu, Hamid Rezatofighi, Thanh-Toan Do, Qinfeng Shi, Ian Reid
+by [Yu Liu](https://sites.google.com/site/yuliuunilau/home), [Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/home), Hamid Rezatofighi, Thanh-Toan Do, Qinfeng Shi, Ian Reid
 
 # Paper is avaliable on Arxiv:
 https://arxiv.org/abs/1901.03796
